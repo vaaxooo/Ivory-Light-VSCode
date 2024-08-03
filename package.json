@@ -1,0 +1,21 @@
+{
+  "name": "ivory-light",
+  "displayName": "Ivory Light",
+  "description": "A clean and refreshing light theme that brings clarity and elegance to your coding experience.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.92.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Ivory Light",
+        "uiTheme": "vs",
+        "path": "./themes/Ivory Light-color-theme.json"
+      }
+    ]
+  }
+}
